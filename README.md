@@ -13,7 +13,7 @@ This project demonstrates the deployment of a highly available and scalable infr
 
 ## Architecture Overview
 
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](Architechture_Diagram.png)
 
 1. **VPC**: The VPC has public and private subnets in two availability zones (us-east-1a, us-east-1b), ensuring high availability and fault tolerance.
 2. **Public Subnets**: Hosts front-end instances (EC2-FE) that are accessible from the internet via the Internet Gateway.
